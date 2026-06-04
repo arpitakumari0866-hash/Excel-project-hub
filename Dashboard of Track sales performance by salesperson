@@ -1,0 +1,35 @@
+This project presents an interactive Sales Dashboard built using Microsoft Excel. The dashboard provides insights into sales performance across different regions, products, and salespersons through dynamic charts, pivot tables, slicers, and key performance indicators.
+##Dashboard view
+- <a href="https://github.com/arpitakumari0866-hash/Excel-project-hub/blob/main/Dashboard%203.xlsx">Dashboard view</a>
+
+🚀 Features
+Total Sales Revenue Analysis
+Regional Sales Performance Tracking
+Product-wise Sales Comparison
+Salesperson Performance Evaluation
+Interactive Filters and Slicers
+Dynamic Charts and Visualizations
+User-friendly Dashboard Layout
+📂 Dataset Overview
+
+The dataset contains transactional sales records with the following fields:
+
+SI No
+Date
+Salesman
+Region
+Item
+Quantity (Qty)
+Price
+Amount (Qty × Price)
+
+🛠️ Tools Used
+Microsoft Excel
+Pivot Tables
+Pivot Charts
+Slicers
+Conditional Formatting
+Excel Formulas
+## Dashboard Screenshot
+- <a href="https://github.com/arpitakumari0866-hash/Excel-project-hub/blob/main/dashboard%20screenshot.docx">Dashboard screenshot</a>
+
